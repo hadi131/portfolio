@@ -10,7 +10,7 @@ const header = () => {
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 
             </p>
-            <div id="secondBtnDiv"><Link href="contactUs" id="btn2">Get Started</Link></div>
+            <div id="secondBtnDiv"><Link href="#contactUs" id="btn2">Get Started</Link></div>
 
         </div>
         <div className="heroPic">
