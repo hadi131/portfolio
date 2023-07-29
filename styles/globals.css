@@ -118,14 +118,16 @@ nav {
 }
 .heroPic{
   overflow: hidden;
-  display: grid;
+ display: grid;
+  align-items: end;
+  justify-content: center;
   /* grid-template-columns: 1fr; */
 }
 .heroPic img {
-  padding: 210px 20px 0px 10px;
-  max-height: 900px;
-  size-adjust: auto;
-  /* display: grid; */
+  /* padding: 210px 20px 0px 10px; */
+  /* max-height: 900px; */
+  /* size-adjust: auto; */
+  
 }
 
 .cards {
@@ -497,7 +499,8 @@ footer {
   }
   .heroPic{
     justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 0 !important;
     padding-right: 50px;
   }
 
