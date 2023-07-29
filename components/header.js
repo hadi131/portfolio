@@ -14,7 +14,7 @@ const header = () => {
 
         </div>
         <div className="heroPic">
-            <img src="https://mobirise.com/extensions/solutionm4/websolution/assets/images/01.jpg" alt=""/>
+            <img src="/images/abdulhadi.png" alt=""/>
         </div>
     </div>
     </>
